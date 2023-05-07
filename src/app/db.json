@@ -1,0 +1,39 @@
+{
+  "seller": [
+    {
+      "name": "Praveen Kumar",
+      "email": "16pravikumar@gmail.com",
+      "password": "123",
+      "id": 1
+    },
+    {
+      "name": "Pooja kumari",
+      "password": "123",
+      "email": "pk11395@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "Pooja2 kumari",
+      "password": "12",
+      "email": "SHANGEOSPATIALPVTLTD@GMAIL.COM",
+      "id": 3
+    },
+    {
+      "name": "dgfg",
+      "password": "123",
+      "email": "abhishekfet1995@gmail.com",
+      "id": 4
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 5
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "",
+      "id": 6
+    }
+  ]
+}
